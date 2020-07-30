@@ -4,7 +4,7 @@
 DeAndrea Norris | Beth Kaster
 
 ## Data Sources:
-* https://www.kaggle.com/gravitymhxy2/data-visualization-exercise-in-fastfoodrestaurants
+* https://www.kaggle.com/datafiniti/fast-food-restaurants
 * https://www.kaggle.com/muonneutrino/us-census-demographic-data
 
 ## ETL Plan:
