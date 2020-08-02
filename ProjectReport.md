@@ -4,6 +4,7 @@
 ### Data Sources
 * https://www.kaggle.com/datafiniti/fast-food-restaurants
 * https://www.kaggle.com/muonneutrino/us-census-demographic-data
+
 Our data sources came from the two links above. We downloaded the csv files and only used the two files:
 * Datafiniti_Fast_Food_Restaurants.csv
 * acs2017_census_tract_data.csv
