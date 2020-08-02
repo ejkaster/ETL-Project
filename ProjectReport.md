@@ -17,6 +17,7 @@ The data was read and cleaned using python/pandas in Jupyter Notebook.
 1. Dropped non-needed columns. 
 2. Checked for non null values, there were none so no action done here.
 3. Rename similar restaurant names. ex: SUBWAY and subway
+
 *Transform*
 Made a Restraurant Brand table and grabbed only the unique values to create a normalized table.
 
@@ -26,6 +27,7 @@ Made a Restraurant Brand table and grabbed only the unique values to create a no
 2. Dropped non-needed columns.
 3. Aggregate data (grouby) state column.
 4. Replaced Full State word with state abbreviation so we can connect with fast food restraurants table.
+
 *Transform*
 Made a State List table and grabbed only the unique values to create a normalized table
 
